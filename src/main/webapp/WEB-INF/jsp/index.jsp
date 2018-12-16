@@ -3,19 +3,14 @@
 <head>
     <meta charset="utf-8">
     <title>tutle</title>
-    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}main.css">
 </head>
 
 
 <body>
 <!-- <script type="text/javascript">alert("hello");</script> -->
 
-
 <header><h1>Pagina</h1></header>
-
-
-
-
 
 <nav>
 	<ul>
