@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>tutle</title>
-    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}main.css">
+    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/main.css">
 </head>
 
 
@@ -20,7 +20,6 @@
 		<li><a href="">Links</a></li>
 	</ul>
 </nav>
-
 
 
 </body>
