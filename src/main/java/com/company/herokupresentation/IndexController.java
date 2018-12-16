@@ -12,4 +12,11 @@ public class IndexController {
         public String indexPageTest(Map<String, Object> model){
         return "index";
     }
+
+
+    @RequestMapping(value = "/index2", method = RequestMethod.GET)
+    public String indexPageTest2(Map<String, Object> model){
+        return "jstrain";
+    }
 }
+

@@ -8,10 +8,8 @@
 
 
 <body>
-<!-- <script type="text/javascript">alert("hello");</script> -->
-<a href="index.jsp">Index</a>
+<div id="bgImage">
 
-
-
+</div>
 </body>
 </html>
