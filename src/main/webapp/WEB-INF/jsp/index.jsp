@@ -3,24 +3,26 @@
 <head>
     <meta charset="utf-8">
     <title>tutle</title>
-    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/main.css">
+    <link rel="stylesheet" type="text/css" href="/main.css">
 </head>
 
 
 <body>
-<!-- <script type="text/javascript">alert("hello");</script> -->
+<div id="bgImage">
 
-<header><h1>Pagina</h1></header>
+    <header>
+        <nav>
+            <h1>Pagina</h1>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">News</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Contacts</a></li>
+            </ul>
+        </nav>
+    </header>
+    <footer>kulsait2019</footer>
 
-<nav>
-	<ul>
-		<li><a href="">Home</a></li>
-		<li><a href="">About</a></li>
-		<li><a href="">Contact</a></li>
-		<li><a href="">Links</a></li>
-	</ul>
-</nav>
-
-
+</div>
 </body>
 </html>

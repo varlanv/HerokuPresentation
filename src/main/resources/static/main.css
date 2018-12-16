@@ -1,17 +1,51 @@
+
+#bgImage {
+	background: url(rabbitx.jpg);
+    position:fixed;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    height:100%;
+    width:100%;
+
+}
 nav {
+	margin: 20px 0 0 0;
 background: #987;
 }
-body {
+
+header {
+}
+header h1 {
+	font-family: serif-sans;
+	font-size: 35px;
+	display: inline;
+	padding: 15px 15px 0px 15px;
+}
+nav ul {
+	display: inline;
+	margin: 0;
+}
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px 5px;
 	margin: 0;
 }
 
-nav ul li {
-	display: inline-block;
-	padding: 10px 5px 10px 5px;
+nav ul li a{
+	background: #97;
+	color: white;
 }
 
-nav ul li a{
-	padding: 1px;
-	background: #999;
-	color: white;
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 50%;
+  /*background-color:rgba(255,0,0,0.2);*/
+  color: white;
+  text-align: center;
+  margin-left: 500px
 }
