@@ -7,12 +7,12 @@
     <meta name="theme-color" content="#000000">
     <link rel="manifest" href="/manifest.json">
     <title>React App</title>
-    <link href="/css/1.0c020c15.chunk.css" rel="stylesheet">
-    <link href="/css/main.a4d6a53a.chunk.css" rel="stylesheet">
+    <link href="css/1.0c020c15.chunk.css" rel="stylesheet">
+    <link href="css/main.6502ae3d.chunk.css" rel="stylesheet">
 </head>
 <body>
 <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="bgImage">
+<div id="bgImage">
         <header>
             <nav><h1>Pagina</h1>
                 <ul>
@@ -23,8 +23,8 @@
                 </ul>
             </nav>
         </header>
+<div id="root">
 
-        <div id="root">
 <script>!function (l) {
     function e(e) {
         for (var r, t, n = e[0], o = e[1], u = e[2], f = 0, i = []; f < n.length; f++) t = n[f], p[t] && i.push(p[t][0]), p[t] = 0;
@@ -83,9 +83,10 @@
     var s = n;
     a()
 }([])</script>
-<script src="/js/1.eb56752e.chunk.js"></script>
-<script src="/js/main.c695671e.chunk.js"></script>
-        </div>
-    </div>
+<script src="js/1.eb56752e.chunk.js"></script>
+<script src="js/main.1640ab2b.chunk.js"></script>
+</div>
+</div>
+
 </body>
 </html>

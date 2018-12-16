@@ -8,7 +8,7 @@ import java.util.Map;
 
 @Controller
 public class IndexController {
-    @RequestMapping(value = "/index", method = RequestMethod.GET)
+    @GetMapping("/")
         public String indexPageTest(Map<String, Object> model){
         return "index";
     }
