@@ -1,0 +1,17 @@
+nav {
+background: #987;
+}
+body {
+	margin: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 10px 5px 10px 5px;
+}
+
+nav ul li a{
+	padding: 1px;
+	background: 999#;
+	color: white;
+}
