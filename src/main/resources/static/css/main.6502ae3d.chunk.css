@@ -18,12 +18,12 @@
          top: 600px;
          right:  1300px;
      }75%{
-          top: 0px;
+          top: 0;
           right:  1300px;
       }
     90% {
         top: 500px;
-        right: 0px;
+        right: 0;
     }
     100%{
         top: 200px;
@@ -40,7 +40,6 @@
 #hello {
     position: absolute;
     z-index: 1000;
-
     height:418px;
     width: 536px;
     animation: rotating 3s linear infinite, move 6s infinite;
