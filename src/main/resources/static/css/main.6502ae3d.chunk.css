@@ -10,7 +10,7 @@
 
     color: white;
 }
-@keyframes move {
+@keyframes qqq {
     0%{
         top: 200px;
         right: 500px;
@@ -30,19 +30,19 @@
         right: 500px;
     }
 }
-@keyframes rotating{
+@keyframes rot{
     from {
         transform: rotate(0deg);
     } to {
           transform: rotate(360deg);
       }
 }
-#hello {
+#alo {
     position: absolute;
     z-index: 1000;
     height:418px;
     width: 536px;
-    animation: rotating 3s linear infinite, move 6s infinite;
+    animation: rot 3s linear infinite, qqq 6s infinite;
 }
 body {
     margin: 0;

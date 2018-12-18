@@ -23,9 +23,7 @@
                 </ul>
             </nav>
         </header>
-    <div id="hello">
-        <img src="hello.png" height="418" width="536">
-    </div>
+
 <div id="root">
 
 <script>!function (l) {
@@ -89,6 +87,9 @@
 <script src="js/1.eb56752e.chunk.js"></script>
 <script src="js/main.1640ab2b.chunk.js"></script>
 </div>
+    <div id="alo">
+        <img src="hello.png" height="418" width="536">
+    </div>
 </div>
 
 </body>
