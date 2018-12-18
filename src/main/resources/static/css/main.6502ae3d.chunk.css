@@ -10,7 +10,38 @@
 
     color: white;
 }
-
+@keyframes move {
+    0%{
+        top: 0px;
+        right: 0px;
+    }25%{
+         top: 600px;
+         right:  1400px;
+     }75%{
+          top: 0px;
+          right:  1300px;
+      }
+    100%{
+        top: 600px;
+        right: 0px;
+    }
+}
+@keyframes rotating{
+    from {
+        transform: rotate(0deg);
+    } to {
+          transform: rotate(360deg);
+      }
+}
+#hello {
+    position: absolute;
+    z-index: 1000;
+    top: 0;
+    right: 0;
+    height:418px;
+    width: 536px;
+    animation: rotating 3s linear infinite, move 6s infinite;
+}
 body {
     margin: 0;
     padding: 0;
