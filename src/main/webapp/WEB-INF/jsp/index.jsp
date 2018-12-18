@@ -9,6 +9,41 @@
     <title>React App</title>
     <link href="css/1.0c020c15.chunk.css" rel="stylesheet">
     <link href="css/main.6502ae3d.chunk.css" rel="stylesheet">
+    <style>
+        @keyframes qqq {
+               0%{
+                   top: 200px;
+                   right: 500px;
+               }25%{
+                    top: 600px;
+                    right:  1300px;
+                }75%{
+                     top: 0;
+                     right:  1300px;
+                 }
+               90% {
+                   top: 500px;
+                   right: 0;
+               }
+               100%{
+                   top: 200px;
+                   right: 500px;
+               }
+           }
+    @keyframes rot{
+        from {
+            transform: rotate(0deg);
+        } to {
+              transform: rotate(360deg);
+          }
+    }
+    #alo {
+        position: absolute;
+        z-index: 1000;
+        height:418px;
+        width: 536px;
+        animation: rot 3s linear infinite, qqq 6s infinite;
+    }</style>
 </head>
 <body>
 <noscript>You need to enable JavaScript to run this app.</noscript>
