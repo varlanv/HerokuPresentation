@@ -24,76 +24,104 @@
             <div id="articles-wrapper">
               <div class="articles">
                 <div class="single-article">
-                        <img src="https://picsum.photos/200/200"/>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Aliquid laudantium exercitationem quasi officia iusto
-                  explicabo vel doloremque nisi dolore. Obcaecati deserunt
-                  deleniti quasi, harum tenetur impedit, accusantium officiis
-                  rerum odit nostrum quibusdam ducimus nemo architecto. Est
-                  ipsam sed alias a consectetur quo ipsum laboriosam excepturi
-                  atque. Vel optio vitae in.
+                  <img src="https://picsum.photos/200/200" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
                 </div>
                 <div class="single-article">
-                        <img src="https://picsum.photos/201/201"/>          
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Aliquid laudantium exercitationem quasi officia iusto
-                  explicabo vel doloremque nisi dolore. Obcaecati deserunt
-                  deleniti quasi, harum tenetur impedit, accusantium officiis
-                  rerum odit nostrum quibusdam ducimus nemo architecto. Est
-                  ipsam sed alias a consectetur quo ipsum laboriosam excepturi
-                  atque. Vel optio vitae in.
+                  <img src="https://picsum.photos/201/201" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
                 </div>
                 <div class="single-article">
-                        <img src="https://picsum.photos/202/202"/>      
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Aliquid laudantium exercitationem quasi officia iusto
-                  explicabo vel doloremque nisi dolore. Obcaecati deserunt
-                  deleniti quasi, harum tenetur impedit, accusantium officiis
-                  rerum odit nostrum quibusdam ducimus nemo architecto. Est
-                  ipsam sed alias a consectetur quo ipsum laboriosam excepturi
-                  atque. Vel optio vitae in.
+                  <img src="https://picsum.photos/202/202" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
                 </div>
                 <div class="single-article">
-                        <img src="https://picsum.photos/203/203"/>      
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Aliquid laudantium exercitationem quasi officia iusto
-                  explicabo vel doloremque nisi dolore. Obcaecati deserunt
-                  deleniti quasi, harum tenetur impedit, accusantium officiis
-                  rerum odit nostrum quibusdam ducimus nemo architecto. Est
-                  ipsam sed alias a consectetur quo ipsum laboriosam excepturi
-                  atque. Vel optio vitae in.
+                  <img src="https://picsum.photos/203/203" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
                 </div>
                 <div class="single-article">
-                        <img src="https://picsum.photos/205/204"/>              
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Aliquid laudantium exercitationem quasi officia iusto
-                  explicabo vel doloremque nisi dolore. Obcaecati deserunt
-                  deleniti quasi, harum tenetur impedit, accusantium officiis
-                  rerum odit nostrum quibusdam ducimus nemo architecto. Est
-                  ipsam sed alias a consectetur quo ipsum laboriosam excepturi
-                  atque. Vel optio vitae in.
+                  <img src="https://picsum.photos/204/204" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
+                </div>
+                <div class="single-article">
+                  <img src="https://picsum.photos/205/205" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
+                </div>
+                <div class="single-article">
+                  <img src="https://picsum.photos/206/206" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
+                </div>
+                <div class="single-article">
+                  <img src="https://picsum.photos/207/207" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
+                </div>
+                <div class="single-article">
+                  <img src="https://picsum.photos/208/208" /> Lorem ipsum dolor,
+                  sit amet consectetur adipisicing elit. Aliquid laudantium
+                  exercitationem quasi officia iusto explicabo vel doloremque
+                  nisi dolore. Obcaecati deserunt deleniti quasi, harum tenetur
+                  impedit, accusantium officiis rerum odit nostrum quibusdam
+                  ducimus nemo architecto. Est ipsam sed alias a consectetur quo
+                  ipsum laboriosam excepturi atque. Vel optio vitae in.
                 </div>
               </div>
             </div>
           </section>
           <aside id="sidebar">
-                <div id="side-menu">    
-                        <div id="sidebar-drop-menu">
-                                <ul>
-                                  <li><a href="#">Moar content</a></li>
-                                  <li><a href="#">Moar content</a></li>
-                                  <li><a href="#">Moar content</a></li>
-                                  <li><a href="#">Moar content</a></li>
-                                  <li><a href="#">Moar content</a></li>
-                                </ul>
-                              </div>
-                        <ul>
-                          <li><a href="#">dropbar</a></li>
-                
-                        </ul>
-                      </div>
-        
-       
+            <div id="side-menu">
+              <div id="sidebar-drop-menu">
+                <ul>
+                  <li><a href="#">Moar content</a></li>
+                  <li><a href="#">Moar content</a></li>
+                  <li><a href="#">Moar content</a></li>
+                  <li><a href="#">Moar content</a></li>
+                  <li><a href="#">Moar content</a></li>
+                </ul>
+              </div>
+              <ul>
+                <li><a href="#">dropbar</a></li>
+              </ul>
+            </div>
           </aside>
           <footer id="footer">Footer</footer>
         </div>
