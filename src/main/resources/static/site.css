@@ -345,10 +345,44 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-light
     grid-column: 3 / 5;
   }
   #main-nav {
-    grid-column: 1 / 3;
+    grid-column: 1 / 4;
   }
 
   #main-content {
     grid-column: 1 / 3;
   }
+}
+
+@media only screen and (max-width: 380px) {
+    
+    #main-content {
+        grid-column: 1 / 5;
+    }
+
+    #sidebar {
+        display: none;
+    }
+
+    #articles-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .articles {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+      }
+      
+      .single-article {
+          margin: 0;
+        width: 100%;
+        padding-bottom: 200px;
+        margin-bottom: 30px;
+        background-color: cornflowerblue;
+        border: 1px red solid;
+      }
+
+      .single-article:nth-child(2n + 1) {
+        margin: 0;        
+      }
 }
