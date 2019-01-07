@@ -16,9 +16,6 @@ public class HerokupresentationApplication {
     public static void main(String[] args) throws IOException {
         SpringApplication.run(HerokupresentationApplication.class, args);
 
-        BufferedReader reader = Files.newBufferedReader(Paths.get("C:\\Users\\Vlad\\Desktop\\qq"));
-        String st;
-
     }
 }
 
